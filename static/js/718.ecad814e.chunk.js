@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdaily_star=self.webpackChunkdaily_star||[]).push([[718],{718:function(n,r,t){t.r(r),t.d(r,{default:function(){return s}});t(2791);var u=t(4664),e=t(184);function s(){return(0,e.jsx)("div",{children:(0,e.jsx)(u.Z,{})})}}}]);
+//# sourceMappingURL=718.ecad814e.chunk.js.map

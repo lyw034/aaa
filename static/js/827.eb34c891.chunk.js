@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdaily_star=self.webpackChunkdaily_star||[]).push([[827],{4827:function(n,u,e){e.r(u),e.d(u,{default:function(){return t}});e(2791);var r=e(184);function t(){return(0,r.jsx)("div",{children:"Tuple"})}}}]);
+//# sourceMappingURL=827.eb34c891.chunk.js.map

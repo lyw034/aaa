@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/273.2b383fab.chunk.js","mappings":"+KAEe,SAASA,IACtB,OACEC,EAAAA,EAAAA,KAAA,OAAAC,SAAK,UAET,C","sources":["components/Japanses/Junior.jsx"],"sourcesContent":["import React from 'react'\r\n\r\nexport default function Junior() {\r\n  return (\r\n    <div>Junior</div>\r\n  )\r\n}\r\n"],"names":["Junior","_jsx","children"],"sourceRoot":""}

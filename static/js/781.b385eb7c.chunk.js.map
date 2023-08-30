@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/781.b385eb7c.chunk.js","mappings":"+KAEe,SAASA,IACtB,OACEC,EAAAA,EAAAA,KAAA,OAAAC,SAAK,QAET,C","sources":["components/Python/Dict/index.jsx"],"sourcesContent":["import React from 'react'\r\n\r\nexport default function Dict() {\r\n  return (\r\n    <div>Dict</div>\r\n  )\r\n}\r\n"],"names":["Dict","_jsx","children"],"sourceRoot":""}
